@@ -14,4 +14,4 @@ Todos:
 and represent it visually.
 ● tools used Python and Jupyter NOtebook
 ● Dataset : https://bit.ly/3kXTdox
-● Video Link : 
+● Video Link : https://www.linkedin.com/posts/vishal-batham-195312206_gripmay21-thesparksfoundation-intern-activity-6800160357877911552-3MYH
